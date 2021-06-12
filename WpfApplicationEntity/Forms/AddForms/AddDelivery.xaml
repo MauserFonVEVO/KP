@@ -1,0 +1,45 @@
+﻿<Window x:Class="WpfApplicationEntity.Forms.AddForms.AddDelivery"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddDelivery" Height="300" Width="400">
+    <Grid RenderTransformOrigin="0.502,0.833" Margin="0,0,15,22">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="ДатаОтправки" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddDataStartDelivery" Grid.Column="1" Grid.Row="0" Padding="0" Margin="3" />
+
+        <Label Content="Маршрут" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddRoute" Grid.Column="1" Grid.Row="1" Padding="0" Margin="3" />
+
+        <Label Content="ОжидаемоеВремяДоставки" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddEstimaedDeliveryTime" Grid.Column="1" Grid.Row="2" Padding="0" Margin="3" />
+
+        <Label Content="ВремяДоставки" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddTimeDelivery" Grid.Column="1" Grid.Row="3" Padding="0" Margin="3" />
+
+        <Label Content="Имя и маршрут" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBoxAddEditDelviTransport" Grid.Column="1" Grid.Row="4"
+                  DisplayMemberPath="GetNameType"
+                  SelectedValuePath="IDTransport"
+                  Padding="3" Margin="3"  />
+
+        <Label Content="Посылка" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBoxAddEditDelivAppointment" Grid.Column="1" Grid.Row="5"
+                  DisplayMemberPath="GetPackageName"
+                  SelectedValuePath="IDPackage"
+                  Padding="3" Margin="3"  />
+        <Button x:Name="ButtonAddEditDelivery"  Grid.Column="0" Grid.Row="6" Content="Добавить" Grid.ColumnSpan="2" Padding="3" Margin="3,0,3,3" Click="ButtonAddEditDelivery_Click" Height="25" VerticalAlignment="Bottom"  />
+    </Grid>
+</Window>

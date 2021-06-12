@@ -1,0 +1,220 @@
+D:\PRJ\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojResolveAssemblyReference.cache
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.baml
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\GroupWindow.g.cs
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.g.cs
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\App.g.cs
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.cache
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.lref
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.pdb
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.dll
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.xml
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\GroupWindow.baml
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.g.resources
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.Properties.Resources.resources
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.GenerateResource.Cache
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+C:\Users\318204\Documents\Visual Studio 2013\Projects\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+F:\C# i mean, no homo\Курсовой\Reserve\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+F:\C# i mean, no homo\Курсовой\Reserve\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+F:\C# i mean, no homo\Курсовой\Reserve\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.pdb
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.dll
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.xml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\App.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.cache
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.g.resources
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.Properties.Resources.resources
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.GenerateResource.Cache
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojResolveAssemblyReference.cache
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.baml
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\OrderAdd.baml
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\OrderEdit.baml
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddEmployees.g.cs
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\EmployeesEdit.g.cs
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\PassWindow.g.cs
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.g.cs
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\OrderAdd.g.cs
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\OrderEdit.g.cs
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\App.g.cs
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.cache
+F:\C# i mean, no homo\Курсовой\idk\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.lref
+D:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+D:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+D:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojResolveAssemblyReference.cache
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojResolveAssemblyReference.cache
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.baml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.g.cs
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\App.g.cs
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.cache
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.g.resources
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.Properties.Resources.resources
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.GenerateResource.Cache
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.pdb
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.dll
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.xml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.baml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.g.cs
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.baml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.g.cs
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.baml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.g.cs
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.baml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.baml
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.g.cs
+F:\C# i mean, no homo\Курсовой\MainAnotherOne\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.baml
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.g.cs
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.pdb
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.dll
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.xml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.baml
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\App.g.cs
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.cache
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.g.resources
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.Properties.Resources.resources
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.GenerateResource.Cache
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.pdb
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.dll
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.xml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojResolveAssemblyReference.cache
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.baml
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\App.g.cs
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.cache
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.g.resources
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.Properties.Resources.resources
+C:\Users\318204\Desktop\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.GenerateResource.Cache
+E:\C# i mean, no homo\Курсовой\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.config
+E:\C# i mean, no homo\Курсовой\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe
+E:\C# i mean, no homo\Курсовой\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.pdb
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.pdb
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.dll
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.dll
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.xml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\EntityFramework.SqlServer.xml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojResolveAssemblyReference.cache
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.baml
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddDelivery.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddEmployees.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddOrder.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddPackage.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\AddForms\AddTransport.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\AdminForm.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\CourerForm.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\FormForLogin\PriemForm.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\LoginForm\LoginForm.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\Forms\MainWindow.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\App.g.cs
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity_MarkupCompile.cache
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.g.resources
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.Properties.Resources.resources
+G:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.GenerateResource.Cache
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojAssemblyReference.cache
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.CoreCompileInputs.cache
+F:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.CopyComplete
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.exe.manifest
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\bin\Debug\WpfApplicationEntity.application
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csprojAssemblyReference.cache
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.CoreCompileInputs.cache
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.exe.manifest
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.application
+E:\C# i mean, no homo\Курсовой\Main\WpfApplicationEntity\WpfApplicationEntity\obj\Debug\WpfApplicationEntity.csproj.CopyComplete

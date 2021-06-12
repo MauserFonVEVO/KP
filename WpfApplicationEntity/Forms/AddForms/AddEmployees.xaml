@@ -1,0 +1,59 @@
+﻿<Window x:Class="WpfApplicationEntity.Forms.AddForms.AddEmployees"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddEmployees" Height="500" Width="300">
+    <Grid RenderTransformOrigin="0.502,0.833" Margin="0,0,15,22">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Content="IDЗаказа" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddID" Grid.Column="1" Grid.Row="0" Padding="0" Margin="3" />
+
+        <Label Content="Фамилия" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddSurname" Grid.Column="1" Grid.Row="1" Padding="0" Margin="3" />
+
+        <Label Content="Имя" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddName" Grid.Column="1" Grid.Row="2" Padding="0" Margin="3" />
+
+        <Label Content="Отчество" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddMiddleName" Grid.Column="1" Grid.Row="3" Padding="0" Margin="3" />
+
+        <Label Content="Адрес" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddAdress" Grid.Column="1" Grid.Row="4" Padding="0" Margin="3" />
+
+        <Label Content="ДатаРождения" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddBirthday" Grid.Column="1" Grid.Row="5" Padding="0" Margin="3" />
+
+        <Label Content="Должность" Grid.Column="0" Grid.Row="6" HorizontalAlignment="Left" Margin="3,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddCategory" Grid.Column="1" Grid.Row="6" Padding="0" Margin="3" />
+
+        <Label Content="Логин" Grid.Column="0" Grid.Row="7" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddLogin" Grid.Column="1" Grid.Row="7" Padding="0" Margin="3" />
+
+        <Label Content="Пароль" Grid.Column="0" Grid.Row="8" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddPassword" Grid.Column="1" Grid.Row="8" Padding="0" Margin="3" />
+
+        <Label Content="КатегорияПрав" Grid.Column="0" Grid.Row="9" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddPass" Grid.Column="1" Grid.Row="9" Padding="0" Margin="3" />
+
+        <Label Content="НомерТелефона" Grid.Column="0" Grid.Row="10" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Top"/>
+        <TextBox x:Name="textAddTelephone" Grid.Column="1" Grid.Row="10" Padding="0" Margin="3" />
+
+        <Button x:Name="ButtonAddEditEmployees"  Grid.Column="0" Grid.Row="12" Content="Добавить" Grid.ColumnSpan="2" Padding="3" Margin="3" Click="ButtonAddEditEmployees_Click"  />
+    </Grid>
+</Window>

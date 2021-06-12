@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApplicationEntity.Forms.FormForLogin.AdminForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AdminForm" Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="191*"/>
+            <ColumnDefinition Width="101*"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>
